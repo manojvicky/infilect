@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 95vh;
+}
+.Login {
+  width: 80%;
+  margin: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* label.label {
+  width: 100px;
+  display: inline-block;
+} */
+/* .userName {
+  height: 50px;
+  line-height: 50px;
+}
+.password {
+  height: 50px;
+  line-height: 50px;
+} */
+button.submitIt {
+  background: white;
+  border: 1px solid lightgray;
+  width: 100px;
+  height: 30px;
+  display: inline-block;
+}
+.submitButton {
+  margin-top: 20px;
+}
